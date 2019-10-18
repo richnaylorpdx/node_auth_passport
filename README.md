@@ -4,6 +4,9 @@ Simple backend that performs auth with passport and generates a jwt. Code is com
 
 ### To run app simply perform the following steps (Underline)
 -------------
+###Characters
+                
+----
 ##### clone app fr repo
 `git clone <link from repo>`
 ##### go into directory created by cloning the app from the repo
