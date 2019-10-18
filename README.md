@@ -1,4 +1,4 @@
-3Node Authorization with Passport
+# Node Authorization with Passport
 
 Simple backend that performs auth with passport and generates a jwt. Code is commented to detail where it will be very easy to add claims to the JWT
 
